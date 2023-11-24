@@ -1,3 +1,3 @@
 # FoundABird-App
 Bird app
-![Etusivu](images/Homepage.jpg)
+![Etusivu](./images/Homepage.jpg)
