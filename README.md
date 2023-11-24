@@ -8,14 +8,19 @@ This is frontpage, where you can select your actions. Save sighting if you want 
 <img src="https://raw.githubusercontent.com/villlekorhonen/FoundABird-App/master/images/SavePAge.jpg" alt="Etusivu" width="300">
 Save sighting
 
+
 <img src="https://raw.githubusercontent.com/villlekorhonen/FoundABird-App/master/images/ListPage.jpg" alt="Etusivu" width="300">
 My birds
+
 
 <img src="https://raw.githubusercontent.com/villlekorhonen/FoundABird-App/master/images/BirdDatabase.jpg" alt="Etusivu" width="300">
 List of birds in Finland
 
+
 <img src="https://raw.githubusercontent.com/villlekorhonen/FoundABird-App/master/images/WeatherPage.jpg" alt="Etusivu" width="300">
 Weather
 
+
 <img src="https://raw.githubusercontent.com/villlekorhonen/FoundABird-App/master/images/MapPage.jpg" alt="Etusivu" width="300">
 Map
+
