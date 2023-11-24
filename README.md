@@ -1,5 +1,6 @@
 # FoundABird-App
 Bird app
 
-![Etusivu](./images/Homepage.jpg)
+![Etusivu](https://raw.githubusercontent.com/villlekorhonen/FoundABird-App/master/images/Homepage.jpg)
+
 
